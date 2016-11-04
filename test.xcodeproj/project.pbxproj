@@ -12,6 +12,7 @@
 		029C00071DCB7CD2005B7130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 029C00051DCB7CD2005B7130 /* Main.storyboard */; };
 		029C00091DCB7CD2005B7130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029C00081DCB7CD2005B7130 /* Assets.xcassets */; };
 		029C000C1DCB7CD2005B7130 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 029C000A1DCB7CD2005B7130 /* LaunchScreen.storyboard */; };
+		029C00321DCCC3AB005B7130 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 029C00311DCCC3AB005B7130 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		029C00081DCB7CD2005B7130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		029C000B1DCB7CD2005B7130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		029C000D1DCB7CD2005B7130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		029C00311DCCC3AB005B7130 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		029CFFFE1DCB7CD2005B7130 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,6 +43,7 @@
 				029C00011DCB7CD2005B7130 /* AppDelegate.swift */,
 				029C00031DCB7CD2005B7130 /* ViewController.swift */,
 				029C00051DCB7CD2005B7130 /* Main.storyboard */,
+				029C00311DCCC3AB005B7130 /* README.md */,
 				029C00081DCB7CD2005B7130 /* Assets.xcassets */,
 				029C000A1DCB7CD2005B7130 /* LaunchScreen.storyboard */,
 				029C000D1DCB7CD2005B7130 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				029C00321DCCC3AB005B7130 /* README.md in Sources */,
 				029C00041DCB7CD2005B7130 /* ViewController.swift in Sources */,
 				029C00021DCB7CD2005B7130 /* AppDelegate.swift in Sources */,
 			);
